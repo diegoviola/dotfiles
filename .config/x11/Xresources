@@ -1,0 +1,13 @@
+! Background color
+URxvt*background: black
+
+! Font color
+URxvt*foreground: white
+
+URxvt.font: xft:Dejavu Sans Mono:size=8
+URxvt.perl-ext-common:      default,clipboard,url-select,keyboard-select
+URxvt.url-select.launcher:  xdg-open
+URxvt.url-select.underline: true
+URxvt.keysym.M-u:           perl:url-select:select_next
+URxvt.keysym.M-Escape:      perl:keyboard-select:activate
+URxvt.keysym.M-s:           perl:keyboard-select:search
