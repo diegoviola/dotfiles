@@ -14,7 +14,7 @@ set hidden
 set ruler
 set listchars=trail:-,tab:\ \
 set list
-set expandtab "replaces tabs with spaces with whatever shiftwidth is set to
+set expandtab
 set autoindent
 set nowrap
 set cursorline
