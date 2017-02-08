@@ -13,7 +13,7 @@ set expandtab
 set autoindent
 set nowrap
 set cursorline
-set sw=2
+set sw=0
 
 filetype on
 filetype plugin indent on
