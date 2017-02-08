@@ -14,6 +14,7 @@ set autoindent
 set nowrap
 set cursorline
 set sw=0
+set laststatus=2
 
 filetype on
 filetype plugin indent on
