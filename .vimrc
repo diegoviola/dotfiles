@@ -1,6 +1,8 @@
 colorscheme apprentice
 
+filetype plugin indent on
 syntax on
+
 set hlsearch
 set incsearch
 set number
@@ -15,8 +17,6 @@ set nowrap
 set cursorline
 set shiftwidth=0
 set laststatus=2
-
-filetype plugin indent on
 
 let mapleader = ","
 map <Leader>n :bn<CR>
