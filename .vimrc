@@ -21,5 +21,3 @@ let mapleader = ","
 map <Leader>n :bn<CR>
 map <Leader>p :bp<CR>
 nnoremap <Leader>l :ls<CR>:b<space>
-
-set backupdir=~/.cache/vim/backup
