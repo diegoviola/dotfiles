@@ -16,8 +16,6 @@ set cursorline
 set shiftwidth=0
 set laststatus=2
 set noswapfile
+set wildmenu
 
-let mapleader = ","
-map <Leader>n :bn<CR>
-map <Leader>p :bp<CR>
-nnoremap <Leader>l :ls<CR>:b<space>
+nnoremap ,b :b *
