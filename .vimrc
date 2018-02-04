@@ -7,8 +7,8 @@ set number
 set relativenumber
 set hidden
 set ruler
-set listchars=trail:-,tab:\ \
 set list
+set listchars=trail:-,tab:\ \
 set expandtab
 set autoindent
 set nowrap
