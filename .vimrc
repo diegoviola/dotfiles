@@ -17,11 +17,11 @@ set nowrap
 set cursorline
 set shiftwidth=0
 set laststatus=2
+set noswapfile
 
 let mapleader = ","
 map <Leader>n :bn<CR>
 map <Leader>p :bp<CR>
 nnoremap <Leader>l :ls<CR>:b<space>
 
-set directory=~/.cache/vim/swap
 set backupdir=~/.cache/vim/backup
