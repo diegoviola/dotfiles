@@ -16,7 +16,6 @@ set cursorline
 set shiftwidth=0
 set laststatus=2
 
-filetype on
 filetype plugin indent on
 
 let mapleader = ","
