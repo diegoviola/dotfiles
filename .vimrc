@@ -19,6 +19,4 @@ set noswapfile
 set wildmenu
 
 nnoremap ,b :b *
-nnoremap <PageUp> :bnext<CR>
-nnoremap <PageDown> :bprevious<CR>
 nnoremap <Space> :ls<CR>:b<Space>
