@@ -13,7 +13,6 @@ set expandtab
 set autoindent
 set nowrap
 set cursorline
-set shiftwidth=0
 set laststatus=2
 set noswapfile
 set wildmenu
