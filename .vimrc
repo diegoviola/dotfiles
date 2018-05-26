@@ -17,5 +17,4 @@ set laststatus=2
 set noswapfile
 set wildmenu
 
-nnoremap ,b :b *
 nnoremap <Space> :ls<CR>:b<Space>
