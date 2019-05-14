@@ -1,5 +1,4 @@
-URxvt.background: #000000
-URxvt.foreground: #ffffff
+URxvt.reverseVideo: true
 URxvt.font: xft:Dejavu Sans Mono:size=9
 URxvt.letterSpace: -1
 URxvt.internalBorder: 1
