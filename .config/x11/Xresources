@@ -1,7 +1,6 @@
 URxvt.reverseVideo: true
 URxvt.font: xft:Dejavu Sans Mono:size=9
 URxvt.letterSpace: -1
-URxvt.internalBorder: 1
 URxvt.scrollBar: false
 URxvt.urgentOnBell: true
 URxvt.perl-ext-common: selection-to-clipboard
