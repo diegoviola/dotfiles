@@ -313,7 +313,7 @@ mouse:
     #   - (macOS) open
     #   - (Linux) xdg-open
     #   - (Windows) explorer
-    #launcher:
+    launcher: None
     #  program: xdg-open
     #  args: []
 
