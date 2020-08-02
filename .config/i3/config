@@ -17,9 +17,6 @@ font pango:monospace 8
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
 #font pango:DejaVu Sans Mono 8
 
-
-
-
 # use these keys for focus, movement, and resize directions when reaching for
 # the arrows is not convenient
 set $up k
