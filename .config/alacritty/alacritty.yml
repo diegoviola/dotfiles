@@ -30,6 +30,10 @@ colors:
     cyan:    '0x54ced6'
     white:   '0xffffff'
 
-mouse:
-  url:
-    launcher: None
+hints:
+  enabled:
+    - regex: "(mailto:|gemini:|gopher:|https:|http:|news:|file:|git:|ssh:|ftp:)\
+              [^\u0000-\u001F\u007F-\u009F<>\"\\s{-}\\^⟨⟩`]+"
+      command: xdg-open
+      mouse:
+        enabled: false
