@@ -14,7 +14,7 @@ set autoindent
 set nowrap
 set cursorline
 set laststatus=2
-set noswapfile
 set wildmenu
+set noswapfile
 
 nnoremap <Space> :ls<CR>:b<Space>
