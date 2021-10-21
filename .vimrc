@@ -12,7 +12,6 @@ set listchars=trail:-,tab:\ \
 set expandtab
 set autoindent
 set nowrap
-set cursorline
 set laststatus=2
 set wildmenu
 set noswapfile
