@@ -32,7 +32,10 @@ colors:
 
 hints:
   enabled:
-    - regex: ""
+    - regex: "(https:|http:)"
       command: xdg-open
       mouse:
         enabled: false
+      binding:
+        key: U
+        mods: Control|Shift
