@@ -2,4 +2,4 @@
 Description=Alarm Clock
 
 [Service]
-ExecStart=/usr/bin/mpv --no-terminal --loop-file=3 /home/diego/Downloads/sedna_ringtone.mp3
+ExecStart=/usr/bin/mpv --no-terminal --loop-file=5 /home/diego/Downloads/sedna_ringtone.mp3
