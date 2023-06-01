@@ -6,7 +6,8 @@ set $up k
 set $right l
 
 set $term foot
-set $menu fuzzel
+set $menu foot --app-id=launcher sh -c "compgen -c | fzf | xargs swaymsg exec"
+for_window [app_id="launcher"] floating enable, border none, resize set height 300
 
 output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
 
