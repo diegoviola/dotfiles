@@ -1,7 +1,6 @@
 filetype plugin indent on
 syntax on
 
-set viminfofile=NONE
 set hlsearch
 set incsearch
 set number
@@ -16,5 +15,6 @@ set nowrap
 set laststatus=2
 set wildmenu
 set noswapfile
+set viminfofile=NONE
 
 nnoremap <Space> :ls<CR>:b<Space>
