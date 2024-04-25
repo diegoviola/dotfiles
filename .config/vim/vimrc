@@ -15,6 +15,5 @@ set nowrap
 set laststatus=2
 set wildmenu
 set noswapfile
-set viminfofile=NONE
 
 nnoremap <Space> :ls<CR>:b<Space>
