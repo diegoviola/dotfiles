@@ -1,0 +1,9 @@
+[Unit]
+Description=Run alarm clock daily
+
+[Timer]
+OnCalendar=8,9,20,21:00
+AccuracySec=1us
+
+[Install]
+WantedBy=timers.target

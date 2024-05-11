@@ -1,0 +1,7 @@
+# 2018-10-27 21:01:09 -0300
+
+[Unit]
+Description=Alarm Clock
+
+[Service]
+ExecStart=/usr/bin/mpv --no-terminal --loop-file=5 /home/diego/Downloads/sedna_ringtone.mp3
